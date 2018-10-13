@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Dev Portfolio</string>
+    <string name="name">Omar Abo Foul</string>
+    <string name="role">Java android developer</string>
+    <string name="get_in_touch">Get in touch</string>
+
+    <string name="about_text">
+        Hi , my name is Omar Abo Foul.
+        "\n"I am 4th year student at faculty of computers and information studying software engineering.
+    "\n"I am working towards a great career as an android developer.
+    I have finished the Udacity android developer nanodegree .
+    </string>
+
+    <string name="skills_text">
+        * Java
+        \n* Android
+        \n* XML
+        \n* JSON
+        \n* REST APIs
+    </string>
+
+    <string name="work_text">
+        * Miwok translation app
+        "\n"* Quake report app
+        "\n"* Pet app
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phone">+201020220883</string>
+</resources>
